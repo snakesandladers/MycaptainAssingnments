@@ -7,7 +7,9 @@ for num in List2:
     if num>=1:
         print(num,end="   ")
         
- 
+ output:
+    12   5   64  
+    12   14   3  
 
 
 
