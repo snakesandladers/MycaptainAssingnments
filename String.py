@@ -7,7 +7,8 @@ def most_frequent(string):
             d[key]-=1
             return d
 print (most_frequent('Mississippi'))
-
-
+output:
+    
+{'M': 4, 'i': 4, 's': 3}
 
 
