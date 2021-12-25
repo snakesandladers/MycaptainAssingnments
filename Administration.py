@@ -36,6 +36,12 @@ elif condition_check=="no":
     condition=False
 elif choice_check=="no":
     print("\nplease re-enter the values!")    
+    
+output:
+    Name: raj
+    Age: 25
+    Contact_number: 08696986
+    E mail_Id: happy@abc.com
 
 
 
